@@ -1,0 +1,16 @@
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 08:23</div><br><div class="alert alert-success mt-3 p-1 alert-mess">Это скрипт гостевой книги, написанный на языке PHP без использования базы данных MySql.</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 08:25</div><br><div class="alert alert-success mt-3 p-1 alert-mess">На одной странице выводится 10 сообщений</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 08:25</div><br><div class="alert alert-success mt-3 p-1 alert-mess">Сообщения хранятся в файле book.txt</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">4</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">5</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">6</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">7</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">8</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">9</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">10</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">11</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:14</div><br><div class="alert alert-success mt-3 p-1 alert-mess">12</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 11:54</div><br><div class="alert alert-success mt-3 p-1 alert-mess">13</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.10.2022 12:04</div><br><div class="alert alert-success mt-3 p-1 alert-mess">14</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.11.2022 15:12</div><br><div class="alert alert-success mt-3 p-1 alert-mess">3</div><br>
+<div class="badge badge-warning badge-pill">Вятскин Дмитрий БПИ21-02 17.11.2022 15:13</div><br><div class="alert alert-success mt-3 p-1 alert-mess">wqewqe</div><br>

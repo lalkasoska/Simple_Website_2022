@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>Пример верстки</title>
+        <style>
+            * {border-radius: 25px;  text-align: center; font-family: Comic Sans MS;}
+            .img_responsive  {max-width: 500; max-height: 500;}
+            header, nav, section, article, aside, footer {display: block;}
+            header.top_banner, header.site_header, footer, #main_wrapper {margin: 5px auto; min-width:600px; width:99%; }
+            header.top_banner, footer{ text-align:center; }
+            header.top_banner{ height: 35px; padding-top:15px; background-color:#F2DCDC;}
+            header.site_header{ height: 150px; background-color:transparent; text-align:center; }
+            footer{ height: 20px; background-color:RGB(198,217,240); bottom: 0; border-radius: 0%;}
+            section{ padding:15px; background-color: #3688c2; overflow:hidden;} 
+            #clearD { clear:both; }
+            article.infoblock {background-color: #3688c2; margin:438px 0px 10px 0;padding:2px 8px; }
+            header.infoblock_head { padding:0px 8px; text-align:center; }
+            #menu_back {width: 550px; background:#1bbf2b; margin:auto; align-content: center;} /*Задаём нужный внешний вид и отступы*/
+            #menu {padding:0; list-style:none; width: 550px; align-content: center;} /*Задаём нужный внешний вид и отступы*/
+            #menu li { display: inline; text-align: center; }/*Задаём нужный внешний вид и отступы*/
+            #menu a {color:white;text-decoration: none; display: inline-block;width: 100px; padding: 2px;}/*Задаём нужный внешний вид и отступы*/
+            #menu a:hover {color:white; background:blue;}/*Задаём изменение цвета при наведении на ссылку*/
+            body { background: url(background.png); }
+            section h2 {color: white; text-shadow: 
+		-0   -1px 0   #000000,
+		 0   -1px 0   #000000,
+		-0    1px 0   #000000,
+		 0    1px 0   #000000,
+		-1px -0   0   #000000,
+		 1px -0   0   #000000,
+		-1px  0   0   #000000,
+		 1px  0   0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000;}
+        </style>
+    </head>
+<body>
+    <header class="site_header">
+        <h1>ПЕРСПЕКТИВНЫЕ СТУДЕНТЫ</h1>
+        <div id ="menu_back">
+            <ul id= "menu">
+                <!-- Горизонтальное меню -->
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="about.html">О нас </a> </li>
+                <li><a href="contacts.html">Контакты</a></li>
+                <li><a href="guestbook.php">Отзывы</a></li>
+                <li><a href="calculus.php">Цены</a></li>
+            </ul>
+        </div>
+    </header>
+    <div id="main_wrapper">
+        <section>
+            <img src = "katyaCrazy.jpg"><!--Тут должно быть подробное описание конкретного студента, но пока что ограничимся фотографией-->
+        </section>
+    </div>
+
+    <footer>
+        Copyright
+    </footer>
+</body>
+</html>
