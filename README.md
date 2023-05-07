@@ -1,5 +1,5 @@
 # General information
-This is a small university project aimed for learning basics of html, css, php, MySQL and javascript by developing a simple website.
+This is a small university project aimed for learning basics of HTML, CSS, PHP, MySQL and JavaScript by developing a simple website.
 # Informational Pages
 Just text and some photos. Features only html and css code.
 <br /><br />
