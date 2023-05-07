@@ -1,4 +1,4 @@
-# Simple_website_2022
+# General information
 This is a small university project aimed for learning basics of html, css, php and javascript by developing a simple website.
 # Informational Pages
 Just text and some photos. Features only html and css code.
